@@ -1,0 +1,16 @@
+# Nmap 7.80 scan initiated Sat May 16 22:19:28 2020 as: nmap -p- -sV -oN ports.nmap 10.10.10.117
+Nmap scan report for 10.10.10.117
+Host is up (0.029s latency).
+Not shown: 65528 closed ports
+PORT      STATE SERVICE VERSION
+22/tcp    open  ssh     OpenSSH 6.7p1 Debian 5+deb8u4 (protocol 2.0)
+80/tcp    open  http    Apache httpd 2.4.10 ((Debian))
+111/tcp   open  rpcbind 2-4 (RPC #100000)
+6697/tcp  open  irc     UnrealIRCd
+8067/tcp  open  irc     UnrealIRCd
+43339/tcp open  status  1 (RPC #100024)
+65534/tcp open  irc     UnrealIRCd
+Service Info: Host: irked.htb; OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Sat May 16 22:20:27 2020 -- 1 IP address (1 host up) scanned in 59.56 seconds
