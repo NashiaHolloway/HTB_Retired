@@ -50,6 +50,10 @@ wget http://10.10.10.117/irked.jpg
 sudo apt-get install steghide
 ```
 
+```
+steghide extract -sf irked.jpg
+```
+
 We are given a password presumably for the Djmardov user. We need to login somewhere with it.
 
 ![](steghide.png)
