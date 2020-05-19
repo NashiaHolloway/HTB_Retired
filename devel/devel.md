@@ -25,3 +25,17 @@ Navigate to `10.10.10.5/shell.aspx` to spawn the shell.
 ## Privilege Escalation
 
 We don't have access to the `babis` user to get the user flag, so we'll try to privesc and get both user and root at the same time.
+
+**followed walkthrough**
+
+FTP in binary mode:
+
+```
+ftp> binary
+```
+
+Compile windows executable in kali:
+
+```
+i686-w64-mingw32-gcc exploit.c -o exploit.exe –lws2_32
+```
