@@ -1,0 +1,9 @@
+# Nmap 7.80 scan initiated Tue May 19 10:15:45 2020 as: nmap -p- -oN ports.nmap 10.10.10.5
+Nmap scan report for 10.10.10.5
+Host is up (0.032s latency).
+Not shown: 65533 filtered ports
+PORT   STATE SERVICE
+21/tcp open  ftp
+80/tcp open  http
+
+# Nmap done at Tue May 19 10:18:03 2020 -- 1 IP address (1 host up) scanned in 138.07 seconds
