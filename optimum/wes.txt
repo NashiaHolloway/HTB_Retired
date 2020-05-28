@@ -1,0 +1,1623 @@
+Windows Exploit Suggester 0.98 ( https://github.com/bitsadmin/wesng/ )
+[+] Parsing systeminfo output
+[+] Operating System
+    - Name: Windows Server 2012 R2
+    - Generation: 2012 R2
+    - Build: 9600
+    - Version: None
+    - Architecture: x64-based
+    - Installed hotfixes (31): KB2959936, KB2896496, KB2919355, KB2920189, KB2928120, KB2931358, KB2931366, KB2933826, KB2938772, KB2949621, KB2954879, KB2958262, KB2958263, KB2961072, KB2965500, KB2966407, KB2967917, KB2971203, KB2971850, KB2973351, KB2973448, KB2975061, KB2976627, KB2977629, KB2981580, KB2987107, KB2989647, KB2998527, KB3000850, KB3003057, KB3014442
+[+] Loading definitions
+    - Creation date of definitions: 20200526
+[+] Determining missing patches
+[+] Filtering duplicate vulnerabilities
+[+] Applying display filters
+[+] Found vulnerabilities
+
+Date: 20161108
+CVE: CVE-2016-7241
+KB: KB3197873
+Title: Cumulative Security Update for Internet Explorer
+Affected product: Windows Server 2012 R2
+Affected component: Internet Explorer 11
+Severity: Critical
+Impact: Remote Code Execution
+Exploits: http://packetstormsecurity.com/files/139991/Microsoft-Edge-JSON.parse-Information-Leak.html, https://www.exploit-db.com/exploits/40875/
+
+Date: 20161213
+CVE: CVE-2016-7241
+KB: KB3197874
+Title: Microsoft Browser Memory Corruption Vulnerability
+Affected product: Internet Explorer 11 on Windows Server 2012 R2
+Affected component: Microsoft Browsers
+Severity: Moderate
+Impact: Remote Code Execution
+Exploits: http://packetstormsecurity.com/files/139991/Microsoft-Edge-JSON.parse-Information-Leak.html, https://www.exploit-db.com/exploits/40875/
+
+Date: 20161213
+CVE: CVE-2016-7241
+KB: KB3197873
+Title: Microsoft Browser Memory Corruption Vulnerability
+Affected product: Internet Explorer 11 on Windows Server 2012 R2
+Affected component: Microsoft Browsers
+Severity: Moderate
+Impact: Remote Code Execution
+Exploits: http://packetstormsecurity.com/files/139991/Microsoft-Edge-JSON.parse-Information-Leak.html, https://www.exploit-db.com/exploits/40875/
+
+Date: 20160127
+CVE: CVE-2016-0015
+KB: KB3109560
+Title: 
+Affected product: Windows Server 2012 R2
+Affected component: Description
+Severity: Important
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/39232/
+
+Date: 20150811
+CVE: CVE-2015-2431
+KB: KB3078601
+Title: Vulnerabilities in Microsoft Graphics Component Could Allow Remote Code Execution
+Affected product: Windows Server 2012 R2 (server core installation)
+Affected component: 
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/37911/
+
+Date: 20150811
+CVE: CVE-2015-2431
+KB: KB3078601
+Title: Vulnerabilities in Microsoft Graphics Component Could Allow Remote Code Execution
+Affected product: Windows Server 2012 R2
+Affected component: 
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/37911/
+
+Date: 20150811
+CVE: CVE-2015-2431
+KB: KB3072307
+Title: Vulnerabilities in Microsoft Graphics Component Could Allow Remote Code Execution
+Affected product: Windows Server 2012 R2
+Affected component: Microsoft .NET Framework 3.5
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/37911/
+
+Date: 20150811
+CVE: CVE-2015-2431
+KB: KB3072307
+Title: Vulnerabilities in Microsoft Graphics Component Could Allow Remote Code Execution
+Affected product: Windows Server 2012 R2 (server core installation)
+Affected component: Microsoft .NET Framework 3.5
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/37911/
+
+Date: 20180508
+CVE: CVE-2018-0824
+KB: KB4103715
+Title: Microsoft COM for Windows Remote Code Execution Vulnerability
+Affected product: Windows Server 2012 R2
+Affected component: Windows COM
+Severity: Important
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/44906/
+
+Date: 20151208
+CVE: CVE-2015-6128
+KB: KB3108381
+Title: Security Update for Microsoft Windows to Address Remote Code Execution
+Affected product: Windows Server 2012 R2
+Affected component: 
+Severity: Important
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/38918/
+
+Date: 20151208
+CVE: CVE-2015-6128
+KB: KB3108381
+Title: Security Update for Microsoft Windows to Address Remote Code Execution
+Affected product: Windows Server 2012 R2 (server core installation)
+Affected component: 
+Severity: Important
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/38918/
+
+Date: 20151208
+CVE: CVE-2015-6128
+KB: KB3108347
+Title: Security Update for Microsoft Windows to Address Remote Code Execution
+Affected product: Windows Server 2012 R2
+Affected component: 
+Severity: Important
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/38918/
+
+Date: 20151208
+CVE: CVE-2015-6128
+KB: KB3108347
+Title: Security Update for Microsoft Windows to Address Remote Code Execution
+Affected product: Windows Server 2012 R2 (server core installation)
+Affected component: 
+Severity: Important
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/38918/
+
+Date: 20140610
+CVE: CVE-2014-1785
+KB: KB2957689
+Title: Cumulative Security Update for Internet Explorer
+Affected product: Windows Server 2012 R2
+Affected component: Windows Internet Explorer 11
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/40946/
+
+Date: 20140610
+CVE: CVE-2014-0282
+KB: KB2957689
+Title: Cumulative Security Update for Internet Explorer
+Affected product: Windows Server 2012 R2
+Affected component: Windows Internet Explorer 11
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: http://www.exploit-db.com/exploits/33860
+
+Date: 20170314
+CVE: CVE-2017-0084
+KB: KB4012213
+Title: Security Update for Microsoft Uniscribe
+Affected product: Windows Server 2012 R2
+Affected component: 
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/41648/
+
+Date: 20170314
+CVE: CVE-2017-0117
+KB: KB4012213
+Title: Security Update for Microsoft Uniscribe
+Affected product: Windows Server 2012 R2
+Affected component: 
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/41655/
+
+Date: 20181113
+CVE: CVE-2018-8544
+KB: KB4467703
+Title: Windows VBScript Engine Remote Code Execution Vulnerability
+Affected product: Windows Server 2012 R2
+Affected component: Microsoft Scripting Engine
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/45923/
+
+Date: 20160209
+CVE: CVE-2016-0049
+KB: KB3126434
+Title: Security Update for Microsoft Windows to Address Remote Code Execution
+Affected product: Windows Server 2012 R2
+Affected component: 
+Severity: Important
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/39442/
+
+Date: 20160209
+CVE: CVE-2016-0049
+KB: KB3126041
+Title: Security Update for Microsoft Windows to Address Remote Code Execution
+Affected product: Windows Server 2012 R2
+Affected component: 
+Severity: Important
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/39442/
+
+Date: 20160209
+CVE: CVE-2016-0049
+KB: KB3126041
+Title: Security Update for Microsoft Windows to Address Remote Code Execution
+Affected product: Windows Server 2012 R2 (server core installation)
+Affected component: 
+Severity: Important
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/39442/
+
+Date: 20160209
+CVE: CVE-2016-0049
+KB: KB3126593
+Title: Security Update for Microsoft Windows to Address Remote Code Execution
+Affected product: Windows Server 2012 R2 (server core installation)
+Affected component: 
+Severity: Important
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/39442/
+
+Date: 20160209
+CVE: CVE-2016-0049
+KB: KB3126587
+Title: Security Update for Microsoft Windows to Address Remote Code Execution
+Affected product: Windows Server 2012 R2
+Affected component: 
+Severity: Important
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/39442/
+
+Date: 20160209
+CVE: CVE-2016-0049
+KB: KB3126587
+Title: Security Update for Microsoft Windows to Address Remote Code Execution
+Affected product: Windows Server 2012 R2 (server core installation)
+Affected component: 
+Severity: Important
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/39442/
+
+Date: 20160209
+CVE: CVE-2016-0049
+KB: KB3126593
+Title: Security Update for Microsoft Windows to Address Remote Code Execution
+Affected product: Windows Server 2012 R2
+Affected component: 
+Severity: Important
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/39442/
+
+Date: 20170314
+CVE: CVE-2017-0087
+KB: KB4012213
+Title: Security Update for Microsoft Uniscribe
+Affected product: Windows Server 2012 R2
+Affected component: 
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/41650/
+
+Date: 20150811
+CVE: CVE-2015-2456
+KB: KB3078601
+Title: Vulnerabilities in Microsoft Graphics Component Could Allow Remote Code Execution
+Affected product: Windows Server 2012 R2 (server core installation)
+Affected component: 
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/37918/
+
+Date: 20150811
+CVE: CVE-2015-2456
+KB: KB3078601
+Title: Vulnerabilities in Microsoft Graphics Component Could Allow Remote Code Execution
+Affected product: Windows Server 2012 R2
+Affected component: 
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/37918/
+
+Date: 20150811
+CVE: CVE-2015-2456
+KB: KB3072307
+Title: Vulnerabilities in Microsoft Graphics Component Could Allow Remote Code Execution
+Affected product: Windows Server 2012 R2
+Affected component: Microsoft .NET Framework 3.5
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/37918/
+
+Date: 20150811
+CVE: CVE-2015-2456
+KB: KB3072307
+Title: Vulnerabilities in Microsoft Graphics Component Could Allow Remote Code Execution
+Affected product: Windows Server 2012 R2 (server core installation)
+Affected component: Microsoft .NET Framework 3.5
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/37918/
+
+Date: 20170314
+CVE: CVE-2017-0143
+KB: KB4012213
+Title: Security Update for Microsoft Windows SMB Server
+Affected product: Windows Server 2012 R2
+Affected component: 
+Severity: Critical
+Impact: Remote Code Execution
+Exploits: https://www.exploit-db.com/exploits/41891/, https://www.exploit-db.com/exploits/41987/, https://www.exploit-db.com/exploits/43970/
+
+Date: 20170314
+CVE: CVE-2017-0143
+KB: KB4012213
+Title: Windows SMB Remote Code Execution Vulnerability
+Affected product: Windows Server 2012 R2
+Affected component: Windows SMB Server
+Severity: Critical
+Impact: Remote Code Execution
+Exploits: https://www.exploit-db.com/exploits/41891/, https://www.exploit-db.com/exploits/41987/, https://www.exploit-db.com/exploits/43970/
+
+Date: 20170314
+CVE: CVE-2017-0089
+KB: KB4012213
+Title: Security Update for Microsoft Uniscribe
+Affected product: Windows Server 2012 R2
+Affected component: 
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/41652/
+
+Date: 20170912
+CVE: CVE-2017-8759
+KB: KB4040972
+Title: .NET Framework Remote Code Execution Vulnerability
+Affected product: Microsoft .NET Framework 4.6/4.6.1/4.6.2/4.7 on Windows Server 2012 R2
+Affected component: .NET Framework
+Severity: Important
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/42711/
+
+Date: 20170912
+CVE: CVE-2017-8759
+KB: KB4040956
+Title: .NET Framework Remote Code Execution Vulnerability
+Affected product: Microsoft .NET Framework 4.6/4.6.1/4.6.2/4.7 on Windows Server 2012 R2
+Affected component: .NET Framework
+Severity: Important
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/42711/
+
+Date: 20170912
+CVE: CVE-2017-8759
+KB: KB4040974
+Title: .NET Framework Remote Code Execution Vulnerability
+Affected product: Microsoft .NET Framework 4.5.2 on Windows Server 2012 R2
+Affected component: .NET Framework
+Severity: Important
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/42711/
+
+Date: 20170912
+CVE: CVE-2017-8759
+KB: KB4040958
+Title: .NET Framework Remote Code Execution Vulnerability
+Affected product: Microsoft .NET Framework 4.5.2 on Windows Server 2012 R2
+Affected component: .NET Framework
+Severity: Important
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/42711/
+
+Date: 20161213
+CVE: CVE-2016-7202
+KB: KB3205400
+Title: Cumulative Security Update for Internet Explorer
+Affected product: Windows Server 2012 R2
+Affected component: Internet Explorer 11
+Severity: Critical
+Impact: Remote Code Execution
+Exploits: https://www.exploit-db.com/exploits/40786/, https://www.exploit-db.com/exploits/40793/
+
+Date: 20161213
+CVE: CVE-2016-7202
+KB: KB3205400
+Title: Scripting Engine Memory Corruption Vulnerability
+Affected product: Internet Explorer 11 on Windows Server 2012 R2
+Affected component: Microsoft Browsers
+Severity: Moderate
+Impact: Remote Code Execution
+Exploits: https://www.exploit-db.com/exploits/40786/, https://www.exploit-db.com/exploits/40793/
+
+Date: 20170314
+CVE: CVE-2017-0088
+KB: KB4012213
+Title: Security Update for Microsoft Uniscribe
+Affected product: Windows Server 2012 R2
+Affected component: 
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/41651/
+
+Date: 20150811
+CVE: CVE-2015-2462
+KB: KB3078601
+Title: Vulnerabilities in Microsoft Graphics Component Could Allow Remote Code Execution
+Affected product: Windows Server 2012 R2 (server core installation)
+Affected component: 
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/37916/
+
+Date: 20150811
+CVE: CVE-2015-2462
+KB: KB3078601
+Title: Vulnerabilities in Microsoft Graphics Component Could Allow Remote Code Execution
+Affected product: Windows Server 2012 R2
+Affected component: 
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/37916/
+
+Date: 20150811
+CVE: CVE-2015-2462
+KB: KB3072307
+Title: Vulnerabilities in Microsoft Graphics Component Could Allow Remote Code Execution
+Affected product: Windows Server 2012 R2
+Affected component: Microsoft .NET Framework 3.5
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/37916/
+
+Date: 20150811
+CVE: CVE-2015-2462
+KB: KB3072307
+Title: Vulnerabilities in Microsoft Graphics Component Could Allow Remote Code Execution
+Affected product: Windows Server 2012 R2 (server core installation)
+Affected component: Microsoft .NET Framework 3.5
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/37916/
+
+Date: 20200512
+CVE: CVE-2018-0886
+KB: KB4103715
+Title: CredSSP Remote Code Execution Vulnerability
+Affected product: Windows Server 2012 R2
+Affected component: Microsoft Windows
+Severity: Important
+Impact: Remote Code Execution
+Exploits: https://blog.preempt.com/security-advisory-credssp, https://github.com/preempt/credssp, https://www.exploit-db.com/exploits/44453/
+
+Date: 20170314
+CVE: CVE-2017-0063
+KB: KB4012213
+Title: Security Update for Microsoft Graphics Component
+Affected product: Windows Server 2012 R2
+Affected component: 
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/41659/
+
+Date: 20141111
+CVE: CVE-2014-6332
+KB: KB3010788
+Title: Vulnerabilities in Windows OLE Could Allow Remote Code Execution
+Affected product: Windows Server 2012 R2
+Affected component: 
+Severity: Critical
+Impact: Remote Code Execution
+Exploits: http://packetstormsecurity.com/files/134053/Avant-Browser-Lite-Ultimate-Remote-Code-Execution.html, http://packetstormsecurity.com/files/134061/The-World-Browser-3.0-Final-Remote-Code-Execution.html, http://packetstormsecurity.com/files/134062/HTML-Compiler-Remote-Code-Execution.html, http://packetstormsecurity.com/files/134064/Microsoft-Compiled-HTML-Help-Remote-Code-Execution.html, http://packetstormsecurity.com/files/134079/Winamp-Bento-Browser-Remote-Code-Execution.html, http://securityintelligence.com/ibm-x-force-researcher-finds-significant-vulnerability-in-microsoft-windows, https://forsec.nl/wp-content/uploads/2014/11/ms14_064_ie_olerce.rb_.txt, https://www.exploit-db.com/exploits/37668/, https://www.exploit-db.com/exploits/37800/, https://www.exploit-db.com/exploits/38500/, https://www.exploit-db.com/exploits/38512/
+
+Date: 20170314
+CVE: CVE-2017-0038
+KB: KB4012213
+Title: Security Update for Microsoft Graphics Component
+Affected product: Windows Server 2012 R2
+Affected component: 
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/41363/
+
+Date: 20150811
+CVE: CVE-2015-2459
+KB: KB3078601
+Title: Vulnerabilities in Microsoft Graphics Component Could Allow Remote Code Execution
+Affected product: Windows Server 2012 R2 (server core installation)
+Affected component: 
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/37922/
+
+Date: 20150811
+CVE: CVE-2015-2459
+KB: KB3078601
+Title: Vulnerabilities in Microsoft Graphics Component Could Allow Remote Code Execution
+Affected product: Windows Server 2012 R2
+Affected component: 
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/37922/
+
+Date: 20150811
+CVE: CVE-2015-2459
+KB: KB3072307
+Title: Vulnerabilities in Microsoft Graphics Component Could Allow Remote Code Execution
+Affected product: Windows Server 2012 R2
+Affected component: Microsoft .NET Framework 3.5
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/37922/
+
+Date: 20150811
+CVE: CVE-2015-2459
+KB: KB3072307
+Title: Vulnerabilities in Microsoft Graphics Component Could Allow Remote Code Execution
+Affected product: Windows Server 2012 R2 (server core installation)
+Affected component: Microsoft .NET Framework 3.5
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/37922/
+
+Date: 20170314
+CVE: CVE-2017-0108
+KB: KB4012213
+Title: Security Update for Microsoft Graphics Component
+Affected product: Windows Server 2012 R2
+Affected component: 
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/41647/
+
+Date: 20170314
+CVE: CVE-2017-0072
+KB: KB4012213
+Title: Security Update for Microsoft Uniscribe
+Affected product: Windows Server 2012 R2
+Affected component: 
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/41654/
+
+Date: 20151208
+CVE: CVE-2015-6132
+KB: KB3108381
+Title: Security Update for Microsoft Windows to Address Remote Code Execution
+Affected product: Windows Server 2012 R2
+Affected component: 
+Severity: Important
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/38968/
+
+Date: 20151208
+CVE: CVE-2015-6132
+KB: KB3108381
+Title: Security Update for Microsoft Windows to Address Remote Code Execution
+Affected product: Windows Server 2012 R2 (server core installation)
+Affected component: 
+Severity: Important
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/38968/
+
+Date: 20151208
+CVE: CVE-2015-6132
+KB: KB3108347
+Title: Security Update for Microsoft Windows to Address Remote Code Execution
+Affected product: Windows Server 2012 R2
+Affected component: 
+Severity: Important
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/38968/
+
+Date: 20151208
+CVE: CVE-2015-6132
+KB: KB3108347
+Title: Security Update for Microsoft Windows to Address Remote Code Execution
+Affected product: Windows Server 2012 R2 (server core installation)
+Affected component: 
+Severity: Important
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/38968/
+
+Date: 20170314
+CVE: CVE-2017-0111
+KB: KB4012213
+Title: Security Update for Microsoft Uniscribe
+Affected product: Windows Server 2012 R2
+Affected component: 
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/41655/
+
+Date: 20170314
+CVE: CVE-2017-0100
+KB: KB4012213
+Title: Security Update for Microsoft Windows
+Affected product: Windows Server 2012 R2
+Affected component: 
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/41607/
+
+Date: 20170314
+CVE: CVE-2017-0145
+KB: KB4012213
+Title: Security Update for Microsoft Windows SMB Server
+Affected product: Windows Server 2012 R2
+Affected component: 
+Severity: Critical
+Impact: Remote Code Execution
+Exploits: https://www.exploit-db.com/exploits/41891/, https://www.exploit-db.com/exploits/41987/
+
+Date: 20170314
+CVE: CVE-2017-0145
+KB: KB4012213
+Title: Windows SMB Remote Code Execution Vulnerability
+Affected product: Windows Server 2012 R2
+Affected component: Windows SMB Server
+Severity: Critical
+Impact: Remote Code Execution
+Exploits: https://www.exploit-db.com/exploits/41891/, https://www.exploit-db.com/exploits/41987/
+
+Date: 20150811
+CVE: CVE-2015-2464
+KB: KB3078601
+Title: Vulnerabilities in Microsoft Graphics Component Could Allow Remote Code Execution
+Affected product: Windows Server 2012 R2 (server core installation)
+Affected component: 
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/37914/
+
+Date: 20150811
+CVE: CVE-2015-2464
+KB: KB3078601
+Title: Vulnerabilities in Microsoft Graphics Component Could Allow Remote Code Execution
+Affected product: Windows Server 2012 R2
+Affected component: 
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/37914/
+
+Date: 20150811
+CVE: CVE-2015-2464
+KB: KB3072307
+Title: Vulnerabilities in Microsoft Graphics Component Could Allow Remote Code Execution
+Affected product: Windows Server 2012 R2
+Affected component: Microsoft .NET Framework 3.5
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/37914/
+
+Date: 20150811
+CVE: CVE-2015-2464
+KB: KB3072307
+Title: Vulnerabilities in Microsoft Graphics Component Could Allow Remote Code Execution
+Affected product: Windows Server 2012 R2 (server core installation)
+Affected component: Microsoft .NET Framework 3.5
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/37914/
+
+Date: 20181009
+CVE: CVE-2018-8423
+KB: KB4462941
+Title: Microsoft JET Database Engine Remote Code Execution Vulnerability
+Affected product: Windows Server 2012 R2
+Affected component: Microsoft JET Database Engine
+Severity: Important
+Impact: Remote Code Execution
+Exploits: https://blog.0patch.com/2018/09/outrunning-attackers-on-jet-database.html, https://blog.0patch.com/2018/10/patching-re-patching-and-meta-patching.html
+
+Date: 20150811
+CVE: CVE-2015-2461
+KB: KB3078601
+Title: Vulnerabilities in Microsoft Graphics Component Could Allow Remote Code Execution
+Affected product: Windows Server 2012 R2 (server core installation)
+Affected component: 
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/37917/
+
+Date: 20150811
+CVE: CVE-2015-2461
+KB: KB3078601
+Title: Vulnerabilities in Microsoft Graphics Component Could Allow Remote Code Execution
+Affected product: Windows Server 2012 R2
+Affected component: 
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/37917/
+
+Date: 20150811
+CVE: CVE-2015-2461
+KB: KB3072307
+Title: Vulnerabilities in Microsoft Graphics Component Could Allow Remote Code Execution
+Affected product: Windows Server 2012 R2
+Affected component: Microsoft .NET Framework 3.5
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/37917/
+
+Date: 20150811
+CVE: CVE-2015-2461
+KB: KB3072307
+Title: Vulnerabilities in Microsoft Graphics Component Could Allow Remote Code Execution
+Affected product: Windows Server 2012 R2 (server core installation)
+Affected component: Microsoft .NET Framework 3.5
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/37917/
+
+Date: 20170314
+CVE: CVE-2017-0113
+KB: KB4012213
+Title: Security Update for Microsoft Uniscribe
+Affected product: Windows Server 2012 R2
+Affected component: 
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/41655/
+
+Date: 20170314
+CVE: CVE-2017-0085
+KB: KB4012213
+Title: Security Update for Microsoft Uniscribe
+Affected product: Windows Server 2012 R2
+Affected component: 
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/41646/
+
+Date: 20170314
+CVE: CVE-2017-0083
+KB: KB4012213
+Title: Security Update for Microsoft Uniscribe
+Affected product: Windows Server 2012 R2
+Affected component: 
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/41655/
+
+Date: 20170314
+CVE: CVE-2017-0086
+KB: KB4012213
+Title: Security Update for Microsoft Uniscribe
+Affected product: Windows Server 2012 R2
+Affected component: 
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/41649/
+
+Date: 20160209
+CVE: CVE-2016-0040
+KB: KB3126434
+Title: Security Update for Microsoft Windows to Address Remote Code Execution
+Affected product: Windows Server 2012 R2
+Affected component: 
+Severity: Important
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/44586/
+
+Date: 20160209
+CVE: CVE-2016-0040
+KB: KB3126041
+Title: Security Update for Microsoft Windows to Address Remote Code Execution
+Affected product: Windows Server 2012 R2
+Affected component: 
+Severity: Important
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/44586/
+
+Date: 20160209
+CVE: CVE-2016-0040
+KB: KB3126041
+Title: Security Update for Microsoft Windows to Address Remote Code Execution
+Affected product: Windows Server 2012 R2 (server core installation)
+Affected component: 
+Severity: Important
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/44586/
+
+Date: 20160209
+CVE: CVE-2016-0040
+KB: KB3126593
+Title: Security Update for Microsoft Windows to Address Remote Code Execution
+Affected product: Windows Server 2012 R2 (server core installation)
+Affected component: 
+Severity: Important
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/44586/
+
+Date: 20160209
+CVE: CVE-2016-0040
+KB: KB3126587
+Title: Security Update for Microsoft Windows to Address Remote Code Execution
+Affected product: Windows Server 2012 R2
+Affected component: 
+Severity: Important
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/44586/
+
+Date: 20160209
+CVE: CVE-2016-0040
+KB: KB3126587
+Title: Security Update for Microsoft Windows to Address Remote Code Execution
+Affected product: Windows Server 2012 R2 (server core installation)
+Affected component: 
+Severity: Important
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/44586/
+
+Date: 20160209
+CVE: CVE-2016-0040
+KB: KB3126593
+Title: Security Update for Microsoft Windows to Address Remote Code Execution
+Affected product: Windows Server 2012 R2
+Affected component: 
+Severity: Important
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/44586/
+
+Date: 20150811
+CVE: CVE-2015-2432
+KB: KB3078601
+Title: Vulnerabilities in Microsoft Graphics Component Could Allow Remote Code Execution
+Affected product: Windows Server 2012 R2 (server core installation)
+Affected component: 
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/37920/
+
+Date: 20150811
+CVE: CVE-2015-2432
+KB: KB3078601
+Title: Vulnerabilities in Microsoft Graphics Component Could Allow Remote Code Execution
+Affected product: Windows Server 2012 R2
+Affected component: 
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/37920/
+
+Date: 20150811
+CVE: CVE-2015-2432
+KB: KB3072307
+Title: Vulnerabilities in Microsoft Graphics Component Could Allow Remote Code Execution
+Affected product: Windows Server 2012 R2
+Affected component: Microsoft .NET Framework 3.5
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/37920/
+
+Date: 20150811
+CVE: CVE-2015-2432
+KB: KB3072307
+Title: Vulnerabilities in Microsoft Graphics Component Could Allow Remote Code Execution
+Affected product: Windows Server 2012 R2 (server core installation)
+Affected component: Microsoft .NET Framework 3.5
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/37920/
+
+Date: 20170622
+CVE: CVE-2017-8464
+KB: KB4022717
+Title: LNK Remote Code Execution Vulnerability
+Affected product: Windows Server 2012 R2
+Affected component: Windows Shell
+Severity: Critical
+Impact: Remote Code Execution
+Exploits: https://www.exploit-db.com/exploits/42382/, https://www.exploit-db.com/exploits/42429/
+
+Date: 20170314
+CVE: CVE-2017-0060
+KB: KB4012213
+Title: Security Update for Microsoft Graphics Component
+Affected product: Windows Server 2012 R2
+Affected component: 
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/41656/
+
+Date: 20180719
+CVE: CVE-2018-8288
+KB: KB4338831
+Title: Scripting Engine Memory Corruption Vulnerability
+Affected product: Internet Explorer 11 on Windows Server 2012 R2
+Affected component: Microsoft Scripting Engine
+Severity: Moderate
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/45213/
+
+Date: 20180719
+CVE: CVE-2018-8288
+KB: KB4345424
+Title: Scripting Engine Memory Corruption Vulnerability
+Affected product: Internet Explorer 11 on Windows Server 2012 R2
+Affected component: Microsoft Scripting Engine
+Severity: Moderate
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/45213/
+
+Date: 20170314
+CVE: CVE-2017-0062
+KB: KB4012213
+Title: Security Update for Microsoft Graphics Component
+Affected product: Windows Server 2012 R2
+Affected component: 
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/41658/
+
+Date: 20150811
+CVE: CVE-2015-2455
+KB: KB3078601
+Title: Vulnerabilities in Microsoft Graphics Component Could Allow Remote Code Execution
+Affected product: Windows Server 2012 R2 (server core installation)
+Affected component: 
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/37919/
+
+Date: 20150811
+CVE: CVE-2015-2455
+KB: KB3078601
+Title: Vulnerabilities in Microsoft Graphics Component Could Allow Remote Code Execution
+Affected product: Windows Server 2012 R2
+Affected component: 
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/37919/
+
+Date: 20150811
+CVE: CVE-2015-2455
+KB: KB3072307
+Title: Vulnerabilities in Microsoft Graphics Component Could Allow Remote Code Execution
+Affected product: Windows Server 2012 R2
+Affected component: Microsoft .NET Framework 3.5
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/37919/
+
+Date: 20150811
+CVE: CVE-2015-2455
+KB: KB3072307
+Title: Vulnerabilities in Microsoft Graphics Component Could Allow Remote Code Execution
+Affected product: Windows Server 2012 R2 (server core installation)
+Affected component: Microsoft .NET Framework 3.5
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/37919/
+
+Date: 20150811
+CVE: CVE-2015-2433
+KB: KB3078601
+Title: Vulnerabilities in Microsoft Graphics Component Could Allow Remote Code Execution
+Affected product: Windows Server 2012 R2 (server core installation)
+Affected component: 
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/38222/
+
+Date: 20150811
+CVE: CVE-2015-2433
+KB: KB3078601
+Title: Vulnerabilities in Microsoft Graphics Component Could Allow Remote Code Execution
+Affected product: Windows Server 2012 R2
+Affected component: 
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/38222/
+
+Date: 20150811
+CVE: CVE-2015-2433
+KB: KB3072307
+Title: Vulnerabilities in Microsoft Graphics Component Could Allow Remote Code Execution
+Affected product: Windows Server 2012 R2
+Affected component: Microsoft .NET Framework 3.5
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/38222/
+
+Date: 20150811
+CVE: CVE-2015-2433
+KB: KB3072307
+Title: Vulnerabilities in Microsoft Graphics Component Could Allow Remote Code Execution
+Affected product: Windows Server 2012 R2 (server core installation)
+Affected component: Microsoft .NET Framework 3.5
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/38222/
+
+Date: 20180809
+CVE: CVE-2018-8174
+KB: KB4103715
+Title: Windows VBScript Engine Remote Code Execution Vulnerability
+Affected product: Windows Server 2012 R2
+Affected component: Microsoft Windows
+Severity: Critical
+Impact: Remote Code Execution
+Exploits: https://blog.0patch.com/2018/05/a-single-instruction-micropatch-for.html, https://www.exploit-db.com/exploits/44741/
+
+Date: 20170314
+CVE: CVE-2017-0148
+KB: KB4012213
+Title: Security Update for Microsoft Windows SMB Server
+Affected product: Windows Server 2012 R2
+Affected component: 
+Severity: Critical
+Impact: Remote Code Execution
+Exploits: https://www.exploit-db.com/exploits/41891/, https://www.exploit-db.com/exploits/41987/
+
+Date: 20170314
+CVE: CVE-2017-0148
+KB: KB4012213
+Title: Windows SMB Remote Code Execution Vulnerability
+Affected product: Windows Server 2012 R2
+Affected component: Windows SMB Server
+Severity: Critical
+Impact: Remote Code Execution
+Exploits: https://www.exploit-db.com/exploits/41891/, https://www.exploit-db.com/exploits/41987/
+
+Date: 20170314
+CVE: CVE-2017-0147
+KB: KB4012213
+Title: Security Update for Microsoft Windows SMB Server
+Affected product: Windows Server 2012 R2
+Affected component: 
+Severity: Critical
+Impact: Remote Code Execution
+Exploits: https://www.exploit-db.com/exploits/41891/, https://www.exploit-db.com/exploits/41987/, https://www.exploit-db.com/exploits/43970/
+
+Date: 20170314
+CVE: CVE-2017-0090
+KB: KB4012213
+Title: Security Update for Microsoft Uniscribe
+Affected product: Windows Server 2012 R2
+Affected component: 
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/41653/
+
+Date: 20170914
+CVE: CVE-2017-8682
+KB: KB4038793
+Title: Win32k Graphics Remote Code Execution Vulnerability
+Affected product: Windows Server 2012 R2
+Affected component: Microsoft Graphics Component
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/42744/
+
+Date: 20170314
+CVE: CVE-2017-0144
+KB: KB4012213
+Title: Security Update for Microsoft Windows SMB Server
+Affected product: Windows Server 2012 R2
+Affected component: 
+Severity: Critical
+Impact: Remote Code Execution
+Exploits: https://www.exploit-db.com/exploits/41891/, https://www.exploit-db.com/exploits/41987/, https://www.exploit-db.com/exploits/42030/, https://www.exploit-db.com/exploits/42031/
+
+Date: 20170314
+CVE: CVE-2017-0144
+KB: KB4012213
+Title: Windows SMB Remote Code Execution Vulnerability
+Affected product: Windows Server 2012 R2
+Affected component: Windows SMB Server
+Severity: Critical
+Impact: Remote Code Execution
+Exploits: https://www.exploit-db.com/exploits/41891/, https://www.exploit-db.com/exploits/41987/, https://www.exploit-db.com/exploits/42030/, https://www.exploit-db.com/exploits/42031/
+
+Date: 20170411
+CVE: CVE-2017-0160
+KB: KB4014987
+Title: .NET Framework Remote Code Execution Vulnerability
+Affected product: Microsoft .NET Framework 4.5.2 on Windows Server 2012 R2
+Affected component: .NET Framework
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/41903/
+
+Date: 20170411
+CVE: CVE-2017-0160
+KB: KB4014987
+Title: .NET Framework Remote Code Execution Vulnerability
+Affected product: Microsoft .NET Framework 4.6.2 on Windows Server 2012 R2
+Affected component: .NET Framework
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/41903/
+
+Date: 20170411
+CVE: CVE-2017-0160
+KB: KB4014987
+Title: .NET Framework Remote Code Execution Vulnerability
+Affected product: Microsoft .NET Framework 3.5 on Windows Server 2012 R2
+Affected component: .NET Framework
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/41903/
+
+Date: 20170411
+CVE: CVE-2017-0160
+KB: KB4014987
+Title: .NET Framework Remote Code Execution Vulnerability
+Affected product: Microsoft .NET Framework 4.6/4.6.1 on Windows Server 2012 R2
+Affected component: .NET Framework
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/41903/
+
+Date: 20170411
+CVE: CVE-2017-0160
+KB: KB4014987
+Title: .NET Framework Remote Code Execution Vulnerability
+Affected product: Microsoft .NET Framework 4.5.2 on Windows Server 2012 R2
+Affected component: .NET Framework
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/41903/
+
+Date: 20170411
+CVE: CVE-2017-0160
+KB: KB4014987
+Title: .NET Framework Remote Code Execution Vulnerability
+Affected product: Microsoft .NET Framework 4.6.2 on Windows Server 2012 R2
+Affected component: .NET Framework
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/41903/
+
+Date: 20170411
+CVE: CVE-2017-0160
+KB: KB4014987
+Title: .NET Framework Remote Code Execution Vulnerability
+Affected product: Microsoft .NET Framework 3.5 on Windows Server 2012 R2
+Affected component: .NET Framework
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/41903/
+
+Date: 20170411
+CVE: CVE-2017-0160
+KB: KB4014987
+Title: .NET Framework Remote Code Execution Vulnerability
+Affected product: Microsoft .NET Framework 4.6/4.6.1 on Windows Server 2012 R2
+Affected component: .NET Framework
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/41903/
+
+Date: 20170411
+CVE: CVE-2017-0160
+KB: KB4014987
+Title: .NET Framework Remote Code Execution Vulnerability
+Affected product: Microsoft .NET Framework 4.5.2 on Windows Server 2012 R2
+Affected component: .NET Framework
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/41903/
+
+Date: 20170411
+CVE: CVE-2017-0160
+KB: KB4014987
+Title: .NET Framework Remote Code Execution Vulnerability
+Affected product: Microsoft .NET Framework 4.6.2 on Windows Server 2012 R2
+Affected component: .NET Framework
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/41903/
+
+Date: 20170411
+CVE: CVE-2017-0160
+KB: KB4014987
+Title: .NET Framework Remote Code Execution Vulnerability
+Affected product: Microsoft .NET Framework 3.5 on Windows Server 2012 R2
+Affected component: .NET Framework
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/41903/
+
+Date: 20170411
+CVE: CVE-2017-0160
+KB: KB4014987
+Title: .NET Framework Remote Code Execution Vulnerability
+Affected product: Microsoft .NET Framework 4.6/4.6.1 on Windows Server 2012 R2
+Affected component: .NET Framework
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/41903/
+
+Date: 20170411
+CVE: CVE-2017-0160
+KB: KB4014987
+Title: .NET Framework Remote Code Execution Vulnerability
+Affected product: Microsoft .NET Framework 4.5.2 on Windows Server 2012 R2
+Affected component: .NET Framework
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/41903/
+
+Date: 20170411
+CVE: CVE-2017-0160
+KB: KB4014987
+Title: .NET Framework Remote Code Execution Vulnerability
+Affected product: Microsoft .NET Framework 4.6.2 on Windows Server 2012 R2
+Affected component: .NET Framework
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/41903/
+
+Date: 20170411
+CVE: CVE-2017-0160
+KB: KB4014987
+Title: .NET Framework Remote Code Execution Vulnerability
+Affected product: Microsoft .NET Framework 3.5 on Windows Server 2012 R2
+Affected component: .NET Framework
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/41903/
+
+Date: 20170411
+CVE: CVE-2017-0160
+KB: KB4014987
+Title: .NET Framework Remote Code Execution Vulnerability
+Affected product: Microsoft .NET Framework 4.6/4.6.1 on Windows Server 2012 R2
+Affected component: .NET Framework
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/41903/
+
+Date: 20170314
+CVE: CVE-2017-0116
+KB: KB4012213
+Title: Security Update for Microsoft Uniscribe
+Affected product: Windows Server 2012 R2
+Affected component: 
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/41655/
+
+Date: 20170314
+CVE: CVE-2017-0061
+KB: KB4012213
+Title: Security Update for Microsoft Graphics Component
+Affected product: Windows Server 2012 R2
+Affected component: 
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/41657/
+
+Date: 20170314
+CVE: CVE-2017-0091
+KB: KB4012213
+Title: Security Update for Microsoft Uniscribe
+Affected product: Windows Server 2012 R2
+Affected component: 
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/41655/
+
+Date: 20150811
+CVE: CVE-2015-2460
+KB: KB3078601
+Title: Vulnerabilities in Microsoft Graphics Component Could Allow Remote Code Execution
+Affected product: Windows Server 2012 R2 (server core installation)
+Affected component: 
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/37921/
+
+Date: 20150811
+CVE: CVE-2015-2460
+KB: KB3078601
+Title: Vulnerabilities in Microsoft Graphics Component Could Allow Remote Code Execution
+Affected product: Windows Server 2012 R2
+Affected component: 
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/37921/
+
+Date: 20150811
+CVE: CVE-2015-2460
+KB: KB3072307
+Title: Vulnerabilities in Microsoft Graphics Component Could Allow Remote Code Execution
+Affected product: Windows Server 2012 R2
+Affected component: Microsoft .NET Framework 3.5
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/37921/
+
+Date: 20150811
+CVE: CVE-2015-2460
+KB: KB3072307
+Title: Vulnerabilities in Microsoft Graphics Component Could Allow Remote Code Execution
+Affected product: Windows Server 2012 R2 (server core installation)
+Affected component: Microsoft .NET Framework 3.5
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/37921/
+
+Date: 20141111
+CVE: CVE-2014-6321
+KB: KB2992611
+Title: Vulnerability in Schannel Could Allow Remote Code Execution
+Affected product: Windows Server 2012 R2 (server core installation)
+Affected component: 
+Severity: Critical
+Impact: Remote Code Execution
+Exploits: http://blog.beyondtrust.com/triggering-ms14-066, http://marc.info/?l=bugtraq&m=142384364031268&w=2, http://www.securitysift.com/exploiting-ms14-066-cve-2014-6321-aka-winshock/
+
+Date: 20141111
+CVE: CVE-2014-6321
+KB: KB2992611
+Title: Vulnerability in Schannel Could Allow Remote Code Execution
+Affected product: Windows Server 2012 R2
+Affected component: 
+Severity: Critical
+Impact: Remote Code Execution
+Exploits: http://blog.beyondtrust.com/triggering-ms14-066, http://marc.info/?l=bugtraq&m=142384364031268&w=2, http://www.securitysift.com/exploiting-ms14-066-cve-2014-6321-aka-winshock/
+
+Date: 20180719
+CVE: CVE-2018-8291
+KB: KB4338831
+Title: Scripting Engine Memory Corruption Vulnerability
+Affected product: Internet Explorer 11 on Windows Server 2012 R2
+Affected component: Microsoft Scripting Engine
+Severity: Moderate
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/45215/
+
+Date: 20180719
+CVE: CVE-2018-8291
+KB: KB4345424
+Title: Scripting Engine Memory Corruption Vulnerability
+Affected product: Internet Explorer 11 on Windows Server 2012 R2
+Affected component: Microsoft Scripting Engine
+Severity: Moderate
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/45215/
+
+Date: 20170314
+CVE: CVE-2017-0114
+KB: KB4012213
+Title: Security Update for Microsoft Uniscribe
+Affected product: Windows Server 2012 R2
+Affected component: 
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/41655/
+
+Date: 20170314
+CVE: CVE-2017-0092
+KB: KB4012213
+Title: Security Update for Microsoft Uniscribe
+Affected product: Windows Server 2012 R2
+Affected component: 
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/41655/
+
+Date: 20161213
+CVE: CVE-2016-7274
+KB: KB3205400
+Title: Windows Uniscribe Remote Code Execution Vulnerability
+Affected product: Windows Server 2012 R2
+Affected component: Microsoft Office
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/41615/
+
+Date: 20150811
+CVE: CVE-2015-2458
+KB: KB3078601
+Title: Vulnerabilities in Microsoft Graphics Component Could Allow Remote Code Execution
+Affected product: Windows Server 2012 R2 (server core installation)
+Affected component: 
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/37923/
+
+Date: 20150811
+CVE: CVE-2015-2458
+KB: KB3078601
+Title: Vulnerabilities in Microsoft Graphics Component Could Allow Remote Code Execution
+Affected product: Windows Server 2012 R2
+Affected component: 
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/37923/
+
+Date: 20150811
+CVE: CVE-2015-2458
+KB: KB3072307
+Title: Vulnerabilities in Microsoft Graphics Component Could Allow Remote Code Execution
+Affected product: Windows Server 2012 R2
+Affected component: Microsoft .NET Framework 3.5
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/37923/
+
+Date: 20150811
+CVE: CVE-2015-2458
+KB: KB3072307
+Title: Vulnerabilities in Microsoft Graphics Component Could Allow Remote Code Execution
+Affected product: Windows Server 2012 R2 (server core installation)
+Affected component: Microsoft .NET Framework 3.5
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/37923/
+
+Date: 20171212
+CVE: CVE-2017-11885
+KB: KB4054522
+Title: Windows RRAS Service Remote Code Execution Vulnerability
+Affected product: Windows Server 2012 R2
+Affected component: Microsoft Windows
+Severity: Important
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/44616/
+
+Date: 20170622
+CVE: CVE-2017-0283
+KB: KB4022717
+Title: Windows Uniscribe Remote Code Execution Vulnerability
+Affected product: Windows Server 2012 R2
+Affected component: Microsoft Uniscribe
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/42234/
+
+Date: 20161011
+CVE: CVE-2016-3387
+KB: KB3192392
+Title: Cumulative Security Update for Internet Explorer
+Affected product: Windows Server 2012 R2
+Affected component: Internet Explorer 11
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/40607/
+
+Date: 20150811
+CVE: CVE-2015-2463
+KB: KB3078601
+Title: Vulnerabilities in Microsoft Graphics Component Could Allow Remote Code Execution
+Affected product: Windows Server 2012 R2 (server core installation)
+Affected component: 
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/37915/
+
+Date: 20150811
+CVE: CVE-2015-2463
+KB: KB3078601
+Title: Vulnerabilities in Microsoft Graphics Component Could Allow Remote Code Execution
+Affected product: Windows Server 2012 R2
+Affected component: 
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/37915/
+
+Date: 20150811
+CVE: CVE-2015-2463
+KB: KB3072307
+Title: Vulnerabilities in Microsoft Graphics Component Could Allow Remote Code Execution
+Affected product: Windows Server 2012 R2
+Affected component: Microsoft .NET Framework 3.5
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/37915/
+
+Date: 20150811
+CVE: CVE-2015-2463
+KB: KB3072307
+Title: Vulnerabilities in Microsoft Graphics Component Could Allow Remote Code Execution
+Affected product: Windows Server 2012 R2 (server core installation)
+Affected component: Microsoft .NET Framework 3.5
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/37915/
+
+Date: 20170314
+CVE: CVE-2017-0146
+KB: KB4012213
+Title: Security Update for Microsoft Windows SMB Server
+Affected product: Windows Server 2012 R2
+Affected component: 
+Severity: Critical
+Impact: Remote Code Execution
+Exploits: https://www.exploit-db.com/exploits/41891/, https://www.exploit-db.com/exploits/41987/, https://www.exploit-db.com/exploits/43970/
+
+Date: 20170314
+CVE: CVE-2017-0146
+KB: KB4012213
+Title: Windows SMB Remote Code Execution Vulnerability
+Affected product: Windows Server 2012 R2
+Affected component: Windows SMB Server
+Severity: Critical
+Impact: Remote Code Execution
+Exploits: https://www.exploit-db.com/exploits/41891/, https://www.exploit-db.com/exploits/41987/, https://www.exploit-db.com/exploits/43970/
+
+Date: 20161213
+CVE: CVE-2016-7287
+KB: KB3205400
+Title: Cumulative Security Update for Internet Explorer
+Affected product: Windows Server 2012 R2
+Affected component: Internet Explorer 11
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/40948/
+
+Date: 20161213
+CVE: CVE-2016-7287
+KB: KB3205400
+Title: Scripting Engine Memory Corruption Vulnerability
+Affected product: Internet Explorer 11 on Windows Server 2012 R2
+Affected component: Microsoft Browsers
+Severity: Moderate
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/40948/
+
+Date: 20170314
+CVE: CVE-2017-0112
+KB: KB4012213
+Title: Security Update for Microsoft Uniscribe
+Affected product: Windows Server 2012 R2
+Affected component: 
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/41655/
+
+Date: 20170314
+CVE: CVE-2017-0115
+KB: KB4012213
+Title: Security Update for Microsoft Uniscribe
+Affected product: Windows Server 2012 R2
+Affected component: 
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/41655/
+
+Date: 20161011
+CVE: CVE-2016-3388
+KB: KB3192392
+Title: Cumulative Security Update for Internet Explorer
+Affected product: Windows Server 2012 R2
+Affected component: Internet Explorer 11
+Severity: Critical
+Impact: Remote Code Execution
+Exploit: https://www.exploit-db.com/exploits/40606/
+
+Date: 20150414
+CVE: CVE-2015-1635
+KB: KB3042553
+Title: Vulnerability in HTTP.sys Could Allow Remote Code Execution
+Affected product: Windows Server 2012 R2
+Affected component: 
+Severity: Critical
+Impact: Remote Code Execution
+Exploits: http://packetstormsecurity.com/files/131463/Microsoft-Windows-HTTP.sys-Proof-Of-Concept.html, https://www.exploit-db.com/exploits/36773/, https://www.exploit-db.com/exploits/36776/
+
+Date: 20150414
+CVE: CVE-2015-1635
+KB: KB3042553
+Title: Vulnerability in HTTP.sys Could Allow Remote Code Execution
+Affected product: Windows Server 2012 R2 (server core installation)
+Affected component: 
+Severity: Critical
+Impact: Remote Code Execution
+Exploits: http://packetstormsecurity.com/files/131463/Microsoft-Windows-HTTP.sys-Proof-Of-Concept.html, https://www.exploit-db.com/exploits/36773/, https://www.exploit-db.com/exploits/36776/
+
+[+] Missing patches: 31
+    - KB4012213: patches 36 vulnerabilities
+    - KB3078601: patches 24 vulnerabilities
+    - KB3072307: patches 24 vulnerabilities
+    - KB4014987: patches 16 vulnerabilities
+    - KB3205400: patches 5 vulnerabilities
+    - KB3108381: patches 4 vulnerabilities
+    - KB3108347: patches 4 vulnerabilities
+    - KB3126041: patches 4 vulnerabilities
+    - KB3126593: patches 4 vulnerabilities
+    - KB3126587: patches 4 vulnerabilities
+    - KB4103715: patches 3 vulnerabilities
+    - KB3197873: patches 2 vulnerabilities
+    - KB2957689: patches 2 vulnerabilities
+    - KB3126434: patches 2 vulnerabilities
+    - KB4022717: patches 2 vulnerabilities
+    - KB4338831: patches 2 vulnerabilities
+    - KB4345424: patches 2 vulnerabilities
+    - KB2992611: patches 2 vulnerabilities
+    - KB3192392: patches 2 vulnerabilities
+    - KB3042553: patches 2 vulnerabilities
+    - KB3197874: patches 1 vulnerability
+    - KB3109560: patches 1 vulnerability
+    - KB4467703: patches 1 vulnerability
+    - KB4040972: patches 1 vulnerability
+    - KB4040956: patches 1 vulnerability
+    - KB4040974: patches 1 vulnerability
+    - KB4040958: patches 1 vulnerability
+    - KB3010788: patches 1 vulnerability
+    - KB4462941: patches 1 vulnerability
+    - KB4038793: patches 1 vulnerability
+    - KB4054522: patches 1 vulnerability
+[+] KB with the most recent release date
+    - ID: KB4103715
+    - Release date: 20200512
+
+[+] Done. Displaying 157 of the 4002 vulnerabilities found.
